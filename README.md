@@ -19,20 +19,23 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     30 mins             █████████████████████████   99.94 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LeetCode Practice        22 mins             ██████████████████░░░░░░░   73.38 % 
+ValidAnagram             6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+ContainsDuplicate        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/09/2023 18:32:56 UTC
+ Last Updated on 06/09/2023 18:33:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **the-beef-calculator/the-beef-calculator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
