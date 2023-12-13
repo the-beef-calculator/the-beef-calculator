@@ -1,38 +1,14 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2027%20mins-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-🌆 Daytime                545 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-🌃 Evening                1419 commits        ███████████████░░░░░░░░░░   58.59 % 
-🌙 Night                  399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+```txt
+Java          7 hrs 13 mins   █████████████████████▓░░░   87.00 %
+XML           37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+IDEA_MODULE   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Markdown      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 30/10/2023 18:34:13 UTC
 <!--END_SECTION:waka-->
 <!--
 **the-beef-calculator/the-beef-calculator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
