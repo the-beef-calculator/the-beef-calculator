@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 18 January 2025
+From: 29 May 2023 - To: 19 January 2025
 
-Total Time: 437 hrs 27 mins
+Total Time: 440 hrs 25 mins
 
-Java                242 hrs 27 mins █████████████▓░░░░░░░░░░░   54.91 %
-TypeScript          70 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-JavaScript          34 hrs 28 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-C                   21 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-XML                 12 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java                245 hrs 13 mins █████████████▓░░░░░░░░░░░   55.17 %
+TypeScript          70 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+JavaScript          34 hrs 28 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+C                   21 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+XML                 12 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
