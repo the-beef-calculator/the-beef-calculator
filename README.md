@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 28 August 2026
+From: 29 May 2023 - To: 29 August 2026
 
-Total Time: 1,071 hrs 10 mins
+Total Time: 1,073 hrs 48 mins
 
-Java                664 hrs 24 mins       ███████████████▒░░░░░░░░░   61.73 %
-TypeScript          189 hrs 36 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-JavaScript          35 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-SQL                 32 hrs 17 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Java                664 hrs 50 mins       ███████████████▒░░░░░░░░░   61.57 %
+TypeScript          191 hrs 34 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+JavaScript          35 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+SQL                 32 hrs 17 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
